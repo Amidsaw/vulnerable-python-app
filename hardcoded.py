@@ -1,5 +1,5 @@
 import requests
 
-google_key = "AiZa4r4fu49fh49udh93ujodid3n"
+google_key = "AIzaSyCaEAG3n587vn4m5a2zllpuURIzGJA2h4uyf73"
 
 response = requests.get(f'https://any.thing/?key={google_key}').json()
