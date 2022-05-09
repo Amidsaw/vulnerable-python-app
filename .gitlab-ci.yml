@@ -22,6 +22,4 @@ security:
         # a proper branch name
         ref: 'main'
         file: 'pipelines.yml'
-  variables:
-    SEC_PYTHON: "true"
 
